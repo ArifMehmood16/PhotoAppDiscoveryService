@@ -10,6 +10,8 @@ Key Features:
 * Health Monitoring: The Discovery Server periodically checks the health of registered microservices and updates their status accordingly, allowing the system to handle service failures gracefully.
 * Centralized Configuration: The Discovery Server can be configured to store service metadata centrally, making it easier to manage and maintain a growing ecosystem of microservices.
 
+Eureka Cluster is covered in a separate repo.
+
 Part of Spring Cloud Practice:
 * PhotoAppDiscoveryService - Eureka Discovery service
 * PhotoAppAPIConfigServer - Config server
